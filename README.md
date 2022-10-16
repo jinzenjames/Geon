@@ -1,4 +1,5 @@
 # Geon
+This is a single page application with a routing of 4 pages about,service and contact with main page home.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
